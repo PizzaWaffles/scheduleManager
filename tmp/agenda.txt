@@ -1,0 +1,249 @@
+2015-02-17  11:00am  Daniel: Check the following:
+2015-02-24  11:00am  Daniel: Check the following:
+2015-03-03  11:00am  Daniel: Check the following:
+2015-03-10  11:00am  Daniel: Check the following:
+2015-03-17  11:00am  Daniel: Check the following:
+2015-03-24  11:00am  Daniel: Check the following:
+2015-03-31  11:00am  Daniel: Check the following:
+2015-04-07  11:00am  Daniel: Check the following:
+2015-04-14  11:00am  Daniel: Check the following:
+2015-04-21  11:00am  Daniel: Check the following:
+2015-04-28  11:00am  Daniel: Check the following:
+2015-05-05  11:00am  Daniel: Check the following:
+2015-05-12  11:00am  Daniel: Check the following:
+2015-05-19  11:00am  Daniel: Check the following:
+2015-05-26  11:00am  Daniel: Check the following:
+2015-06-02  11:00am  Daniel: Check the following:
+2015-06-09  11:00am  Daniel: Check the following:
+2015-06-10   4:00pm  Daniel Blevins
+2015-06-16  11:00am  Daniel: Check the following:
+2015-06-23  11:00am  Daniel: Check the following:
+2015-06-28           5:30pm - 9:30pm (Daniel)
+2015-06-29           6:30pm - 1:30pm (Daniel)
+2015-06-30           6pm-1am (Daniel)
+2015-06-30  11:00am  Daniel: Check the following:
+2015-07-01           9p-4a (Daniel)
+2015-07-02           7pm - 3am (Daniel)
+2015-07-03           4pm - 12am (Daniel)
+2015-07-05           5:00pm-9:00pm: Daniel
+2015-07-06           6:30pm-1:00am (Daniel)
+2015-07-07           6:30pm-1:00am (Daniel)
+2015-07-07           .9:00am-4:00pm (Daniel)
+2015-07-07  11:00am  Daniel: Check the following:
+2015-07-08           7:00pm-1:00am (Daniel)
+2015-07-08           .9:00am-3:00pm (Daniel)
+2015-07-09           9:00pm-1:00am (Daniel)
+2015-07-10           5:00pm-1:00am (Daniel)
+2015-07-11           .9:00am-4:00pm (Daniel)
+2015-07-11   9:00am  . 5-11p (Daniel)
+2015-07-14  11:00am  Daniel: Check the following:
+2015-07-15           3:00-6:00 Daniel Maintenance
+2015-07-16           .9:00pm-1:00am (Daniel)
+2015-07-17           .9:00am-5:00pm (Daniel)
+2015-07-18           12p-12a: Daniel
+2015-07-21  11:00am  Daniel: Check the following:
+2015-07-23           4p-10:30p (Daniel)
+2015-07-24           5p-3a Daniel
+2015-07-25           6p-3a Daniel
+2015-07-26           5:30-9:30 Daniel
+2015-07-27           5p-10p Daniel
+2015-07-28   8:00pm  Daniel: Check the following:
+2015-07-29           5p-10p Daniel
+2015-07-31           8p-3a Daniel
+2015-08-01           11p-3a Daniel
+2015-08-08           10-3 Daniel
+2015-08-08  12:00am  10p-3a Daniel
+2015-08-10           5p-10p Daniel
+2015-08-11           3p-10p Daniel
+2015-08-11   5:00pm  Daniel: Check the following:
+2015-08-13           2p-10p Daniel
+2015-08-14           4p-1a Daniel
+2015-08-16           7-10 Daniel
+2015-08-17           12-2p  7p-10p Daniel
+2015-08-19           3p-10p Daniel
+2015-08-20           Daniel Off
+2015-08-21           3p-7p 10p-7a Daniel
+2015-08-22           9a-7p Daniel
+2015-08-24           3p-12a Daniel
+2015-08-25           Daniel 11p-3a
+2015-08-26           3p-12a Daniel
+2015-08-27           5-12a Daniel
+2015-08-28           6p-6a Daniel
+2015-08-31           7a-8a.  2p-10p Daniel
+2015-09-01           Daniel off
+2015-09-02           3p-9p Daniel
+2015-09-03           6p-1a Daniel
+2015-09-04           4p-1a Daniel
+2015-09-05           9.30a-4.30pm Daniel
+2015-09-06           5p-10p Daniel
+2015-09-07           1p-10p Daniel
+2015-09-08           Daniel off
+2015-09-09           5p-9a Daniel
+2015-09-10           5p-10p Daniel
+2015-09-11           1p-10p Daniel
+2015-09-12           10a-2p.and 6.30p-9.30p Daniel
+2015-09-13           1p-10p Daniel
+2015-09-14           9a-6p Daniel
+2015-09-15           Daniel off
+2015-09-17           4p-10p Daniel
+2015-09-18           4-6p Daniel Movie with Dad
+2015-09-20           10p-8a Daniel night shift...am take kids to school
+2015-09-21           4p-9p Daniel
+2015-09-22           Daniel off
+2015-09-24           3p-10p Daniel
+2015-09-25           4p-11p Daniel
+2015-09-26           9a-7p Daniel
+2015-09-27           Daniel Off
+2015-09-28           1-9p Daniel
+2015-09-29           Daniel off
+2015-10-01           4p-9p Daniel
+2015-10-02           12p-10p Daniel
+2015-10-03           9a-8.3p Daniel
+2015-10-04           Daniel off
+2015-10-05           6.30p - 8.45p Daniel
+2015-10-06           Wed 8.30a -10a Daniel off
+2015-10-08           5p-9p Daniel
+2015-10-09           3p-11p Daniel
+2015-10-10           9-9p Daniel
+2015-10-10           Daniel 330p-1045p
+2015-10-11           1-9p Daniel
+2015-10-12           9a-9p Daniel
+2015-10-13           Daniel off
+2015-10-14           6-10p Daniel
+2015-10-15           2p-10p Daniel
+2015-10-16           Daniel Off
+2015-10-19           1-1030p Daniel
+2015-10-21           7.30-10p Daniel
+2015-10-22           Training 9-4 Melanie/Tina/Savannah/Daniel
+2015-10-22           5p-1.3a Daniel
+2015-10-24           8a-8p Daniel
+2015-10-25           On call Daniel
+2015-10-26           3p-5p Daniel
+2015-10-28           12-3p Daniel
+2015-10-28           11.30-4p Daniel
+2015-10-30           4p-9a Daniel
+2015-10-31           6p-10p Daniel
+2015-11-01           1p-6.30p Daniel
+2015-11-02           11a-8p Daniel
+2015-11-03           Daniel off
+2015-11-06           Daniel 12p-10
+2015-11-08           1-10 Daniel
+2015-11-09           2-9p Daniel
+2015-11-11           12p-9p Daniel
+2015-11-13           2-10p Daniel
+2015-11-14           12-8 Daniel
+2015-11-15           1-10 Daniel
+2015-11-16           2-10 Daniel
+2015-11-18           Daniel (Connor4-8)
+2015-11-19           2-10p Daniel (Connor 4-8p)
+2015-11-20           9-1p, 3p-12a Daniel (Connor 4-8p)
+2015-11-20   9:00am  Trauma Informed Care Bre, Daniel
+2015-11-21           10-8p Daniel
+2015-11-22           Daniel off
+2015-11-23           5-10 Daniel
+2015-11-25           12p-9p Daniel
+2015-11-26           1-7 Daniel
+2015-11-27           4-10p Daniel
+2015-11-27           6 10p Daniel
+2015-11-27   8:00am  Tom n JoAnn moving Steve, Lynn, Daniel, Chrisy,n Beka
+2015-11-28           3p-8p Daniel
+2015-11-29           3p-9p Daniel ( connor)
+2015-11-30           1-10p Daniel
+2015-12-02           Daniel 5p-8p (Connor)
+2015-12-03           4-8p Daniel dinner (Connor 4-8p)
+2015-12-05           7a-10p Daniel (Connor 7-4)
+2015-12-06           7a-5p Daniel ( connor 10-2p)
+2015-12-07           Daniel Off
+2015-12-08           11-2p Daniel Staff Meeting
+2015-12-09           2-10 Daniel
+2015-12-10           3-9p Daniel (Connor 4-8p)
+2015-12-11           12 -8 Daniel (Connor 12-3p, 6.30-8p)
+2015-12-14           Daniel 2p-10
+2015-12-17           Daniel 4-11p
+2015-12-18           Daniel 11a-11p
+2015-12-19           Daniel Off
+2015-12-23           Daniel 1-5p in Payson
+2015-12-24           Daniel 5-10p
+2015-12-27           Daniel off
+2015-12-29           Daniel 2-10p (night shift)
+2015-12-31           Daniel 2-10p
+2016-01-02           Daniel 9a-8p
+2016-01-03           Daniel Off
+2016-01-07           Daniel 2-5.30p appts (Friday 12-9p)
+2016-01-09           Daniel 10-10p
+2016-01-10           Daniel 1-8p
+2016-01-11           Daniel Off
+2016-01-12           Daniel 3.30-10p
+2016-01-13           Daniel Off
+2016-01-15           Daniel 2-9p
+2016-01-17           Daniel 1-6p look at list
+2016-01-18           Daniel 3-8p
+2016-01-19           Daniel 4p-10p
+2016-01-20           Daniel 7-8a stuff to dump
+2016-01-21           Daniel 9p-8a night shift take kids thurs am?
+2016-01-22           Daniel take kids to school 7am
+2016-01-24           Daniel 10p-6a night shift Monday/Tuesday take kids to school
+2016-01-24   7:00pm  International Sunday Daniel Beka Chrisy Naomi Nicole
+2016-01-27           Daniel off
+2016-01-28           Daniel 2-10p P/U NF,NE, CJ n Beka
+2016-01-29           Daniel 2-10p
+2016-01-30           Daniel 10a -9p
+2016-01-31           Daniel 2-9p
+2016-02-01           Daniel Off
+2016-02-02           Daniel 2-10
+2016-02-03           Daniel Off
+2016-02-04           Daniel 2-10
+2016-02-05           Daniel 2-10
+2016-02-06           Daniel 7-4p
+2016-02-08           Daniel Off
+2016-02-09           Daniel 2-10
+2016-02-10           Daniel Off
+2016-02-11           Daniel 2-10
+2016-02-12           Daniel weekend
+2016-02-12           Daniel 2-10
+2016-02-15           Daniel Off
+2016-02-16           Daniel 2-10
+2016-02-17           Daniel Off
+2016-02-18           Daniel 2-10
+2016-02-19           Daniel 2-10
+2016-02-20           Daniel 3-10p
+2016-02-21           Daniel 1-8p
+2016-02-22           Daniel Off
+2016-02-23           Daniel 2-9p
+2016-02-23           Daniel 2-10
+2016-02-24           Daniel 3-9p
+2016-02-25           Daniel 2-10
+2016-02-26           Daniel 2-10
+2016-02-27           Daniel 10-8p
+2016-02-29           Daniel Off
+2016-03-01           Daniel 2-10
+2016-03-02           Daniel Off
+2016-03-03           Daniel 2-10
+2016-03-04           Daniel 2-10p
+2016-03-05           Daniel 10-8p
+2016-03-06           Daniel 4-10p
+2016-03-07           Daniel Off
+2016-03-09           Daniel Off
+2016-03-12           Daniel 8p-8a Night shift
+2016-03-14           Daniel Off
+2016-03-16           Daniel Off
+2016-03-21           Daniel Off
+2016-03-23           Daniel Off
+2016-03-28           Daniel Off
+2016-03-30           Daniel Off
+2016-04-04           Daniel Off
+2016-04-06           Daniel Off
+2016-04-11           Daniel Off
+2016-04-13           Daniel Off
+2016-04-18           Daniel Off
+2016-04-20           Daniel Off
+2016-04-25           Daniel Off
+2016-04-27           Daniel Off
+2016-05-02           Daniel Off
+2016-05-04           Daniel Off
+2016-05-09           Daniel Off
+2016-05-11           Daniel Off
+2016-05-16           Daniel Off
+2016-05-18           Daniel Off
+2016-05-23           Daniel Off
+2016-05-25           Daniel Off
