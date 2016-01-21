@@ -1,6 +1,6 @@
 # scheduleManager
 Uses 'gcalcli' to check Google Calendar cronTab is currently setup to run at 6AM everyday
-This script searches 'destCalendar' using the search term, every event found is added to 'sourceCalendar'.
+This script searches 'sourceCalendar' using the search term, every event found is added to 'destCalendar'.
 
 
 ## Download
