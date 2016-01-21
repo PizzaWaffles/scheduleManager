@@ -5,8 +5,6 @@ destCalendar="Work Schedule"
 searchKey="Daniel"
 
 
-
-
 number="545619" #number used to find events created by 'scheduleManager'
 fileName="tmp/agenda.txt"
 logFile="tmp/currentLog.log"
