@@ -1,14 +1,17 @@
 #!/bin/bash
 
+workingDir="/home/pi/scheduleManager/"
 sourceCalendar="HACH Global Calendar"
 destCalendar="Work Schedule"
 searchKey="Daniel"
 
 
 number="545619" #number used to find events created by 'scheduleManager'
-fileName="tmp/agenda.data"
-logFile="tmp/currentLog.log"
+tmpFolder="$workingDirtmp/"
+fileName="$tmpFolderagenda.data"
+logFile="$tmpFoldercurrentLog.log"
 
+mkdir $tmpFolder
 touch $fileName
 touch $logFile
 echo "-Start-" > $logFile
