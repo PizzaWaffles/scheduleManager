@@ -6,9 +6,10 @@ searchKey="Daniel"
 
 
 number="545619" #number used to find events created by 'scheduleManager'
-fileName="tmp/agenda.txt"
+fileName="tmp/agenda.data"
 logFile="tmp/currentLog.log"
 
+touch $fileName
 touch $logFile
 echo "-Start-" > $logFile
 
