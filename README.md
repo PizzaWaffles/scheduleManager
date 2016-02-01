@@ -9,7 +9,7 @@ This script searches 'sourceCalendar' using the search term, every event found i
 ## Install
 ```cd scheduleManager```
 
-```sudo ./INSTALL```
+```./INSTALL```
 
 It will install 'gcalcli' you will need to setup an access code from Google.
 Will open a text editor. Change the first three variables to your calendar names and search terms.
