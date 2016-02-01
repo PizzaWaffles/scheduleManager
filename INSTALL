@@ -3,8 +3,8 @@
 echo "-----Beginning Install------" 
 echo "This program will install/check prereqs."
 
-if [[ "$(whoami)" != "root" ]]; then
-	echo "FaTaL need root"
+if [[ "$(whoami)" == "root" ]]; then
+	echo "FaTaL will not work with root!!"
 	exit 1
 fi
 
@@ -18,11 +18,11 @@ read -n1 -r -p "Press any key to continue..." key
 nano manager.sh
 
 echo "Installing crontab!"
-sudo crontab -l > currentCron
+crontab -l > currentCron
 
 echo "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games" >> currentCron
 echo "00 6 * * *  /home/pi/scheduleManager/manager.sh > /home/pi/scheduleManager/tmp/cronLog.log 2>&1" >> currentCron
-sudo crontab currentCron
+crontab currentCron
 sudo rm currentCron
 
 echo "------Done------"
