@@ -15,14 +15,14 @@ touch $fileName
 touch $logFile
 echo "-Start-" > $logFile
 
-gcalcli --calendar "$destSchedule" delete "$number" --iamaexpert >> $logFile
+gcalcli -v --calendar "$destSchedule" delete "$number" --iamaexpert >> $logFile
 gcalcli --calendar "$sourceCalendar" search "$searchKey" | grep "$searchKey" | sed 's/\x1b\[[0-9;]*m//g' > $fileName
 
 curYear=$(date +%Y)
 curMonth=$(date +%m)
 curDay=$(date +%d)
 
-while read line; do
+while read -r line; do
 	if [ "$line" != "" ]; then
 		year=$(echo $line | cut -c1-4)
 		month=$(echo $line | cut -c6-7)
@@ -36,4 +36,7 @@ while read line; do
 		fi
 	fi
 
-done < $fileName
+done < "$fileName"
+
+echo "Done" >> $logFile
+exit 0
