@@ -2,20 +2,23 @@
 
 echo "-----Beginning Install------" 
 echo "This program will install/check prereqs."
+echo "Will then setup config file"
 
 if [[ "$(whoami)" == "root" ]]; then
 	echo "FaTaL will not work with root!!"
+	echo "If I need it I'll ask for it."
 	exit 1
 fi
 
-echo "Will now instal gcalcli"
-sudo apt-get install gcalcli
+echo "Installing 'python-setuptools'"
+sudo apt-get install python-setuptools
+sudo easy_install pip
 
-echo "READ CAREFULLY!"
-echo "A text editor will now open change the first 3 variables to correspond with your settings!"
-read -n1 -r -p "Press any key to continue..." key
+echo "Will now install gcalcli"
+sudo pip install gcalcli
+gcalcli --noauth_local_webserver list
 
-nano manager.sh
+#nano manager.sh
 
 echo "Installing crontab!"
 crontab -l > currentCron
@@ -24,5 +27,18 @@ echo "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/loc
 echo "00 6 * * *  /home/pi/scheduleManager/manager.sh > /home/pi/scheduleManager/tmp/cronLog.log 2>&1" >> currentCron
 crontab currentCron
 sudo rm currentCron
+
+#Setting up config file
+echo '#---Replace brackets with values'
+echo 'workingDir="[current working directory, include backslash]"' > config.data
+echo 'sourceCalendar="[calendar to get events from]"' >> config.data
+echo 'destCalendar="[calendar to put events into]"' >> config.data
+echo 'searchKey="[search terms seperated by spaces, OR searching method]"' >> config.data
+echo 'number="Any random number that is unique to identify events created by scheduleManager"' >> config.data
+
+echo "READ CAREFULLY!"
+echo "A text editor will now open change the variables to correspond with your settings!"
+read -n1 -r -p "Press any key to continue..." key
+nano config.data
 
 echo "------Done------"

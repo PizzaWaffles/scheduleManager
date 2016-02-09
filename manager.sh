@@ -1,11 +1,7 @@
 #!/bin/bash
 
-workingDir="/home/pi/scheduleManager/"
-sourceCalendar="HACH Global Calendar"
-destCalendar="Work Schedule"
-searchKey=("Daniel", "Mitchell", "Savannah", "Tina")
+source config.data
 
-number="545619" #number used to find events created by 'scheduleManager'
 tmpFolder=$workingDir"tmp/"
 fileName=$tmpFolder"agenda.data"
 logFile=$tmpFolder"currentLog.log"
@@ -18,12 +14,12 @@ echo "-Start-" > $logFile
 gcalcli -v --calendar "$destSchedule" delete "$number" --iamaexpert >> $logFile
 
 echo "" > $fileName
-for t in "${seachKey[@]}"
-do
+
+for t in $searchKey; do
 	gcalcli --calendar "$sourceCalendar" search "$t" | grep "$t" | sed 's/\x1b\[[0-9;]*m//g' >> $fileName
-	echo $t >> $logFile
+	echo "$t" >> $logFile
 done
-exit 1
+#exit 1
 
 curYear=$(date +%Y)
 curMonth=$(date +%m)
